@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+@media screen and (min-width: 400px) {
+    body {
+        background-color: purple;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        background-color: pink;
+    }
+}
